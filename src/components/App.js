@@ -95,11 +95,11 @@ class App extends Component {
               </div>
               <div className="logo">Dashboard</div>
               <div className="icon-bar">
-                <a className="active" href="#">
-                  <i className="fa fa-home"></i>
+	    	<a href="#">
+                  <i className="fa fa-search"></i>
                 </a>
                 <a href="#">
-                  <i className="fa fa-search"></i>
+                  <i className="fa fa-home"></i>
                 </a>
                 <a href="#">
                   <i className="fa fa-envelope"></i>
